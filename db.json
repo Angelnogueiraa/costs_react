@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "name": "zumbie",
+      "budget": "7050",
+      "category": {
+        "id": "3",
+        "name": "Desing"
+      },
+      "cost": 3600,
+      "services": [
+        {
+          "name": "contratar programador",
+          "cost": "1500",
+          "description": "fazer um site",
+          "id": "af9a310e-df18-42ca-a704-a7e6d6f4dac5"
+        },
+        {
+          "name": "reforma ",
+          "cost": "500",
+          "description": "sala de reunião",
+          "id": "e9622946-43d0-46d8-8ff7-9d0363bf1e4b"
+        },
+        {
+          "name": "reforma 2 ",
+          "cost": "1300",
+          "description": "sala 2",
+          "id": "357c43cb-4aba-4e58-8f95-464a03a34e3c"
+        },
+        {
+          "name": "reforma 3",
+          "cost": "300",
+          "description": "sala 3",
+          "id": "6df6f2ea-2b9b-430e-a2fd-ce4c778554b7"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "angel",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 35
+    },
+    {
+      "name": "caju",
+      "budget": "12592",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 36
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    }
+  ]
+}
