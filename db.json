@@ -48,15 +48,22 @@
       "id": 35
     },
     {
-      "name": "caju",
-      "budget": "12592",
+      "name": "michel 3.0",
+      "budget": "5000",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "3",
+        "name": "Desing"
       },
-      "cost": 0,
-      "services": [],
-      "id": 36
+      "cost": 2000,
+      "services": [
+        {
+          "name": "computador",
+          "cost": "2000",
+          "description": "um computador melhor",
+          "id": "7ce2ba7b-a81e-4465-a11d-644f4ee437a0"
+        }
+      ],
+      "id": 37
     }
   ],
   "categories": [
